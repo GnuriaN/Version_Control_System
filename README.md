@@ -15,3 +15,9 @@
 * [ ] Создеёте файл с историей ваших изменений [`git log`](https://git-scm.com/docs/git-log)
 * [ ] Зафиксируйте все изменения и сохраните их на сервере.
 * [ ] Создайте Pull Request на для свой ветки.
+
+
+## Дополнительные материалы:
+1. https://github.com/GnuriaN/UDEMY_GIT
+2. https://git-scm.com/docs
+
