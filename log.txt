@@ -1,0 +1,23 @@
+commit a8c1715e76af7b04880a317f74ba8300a67bc18a
+Author: azharova <abc@example.comgit config --global user.email abc@example.com>
+Date:   Thu Aug 4 11:53:22 2022 +0300
+
+    Add file
+
+commit ef2eb236dc9156cf6fbd594a1a9c7fdbbf2822a7
+Author: Ruslan Prokhorov <info@sabaka.net>
+Date:   Wed Aug 3 16:36:11 2022 +0300
+
+    add additional materials
+
+commit 58ab6ec9b575b61e14aea5c2075c37bc173698e7
+Author: Ruslan Prokhorov <info@sabaka.net>
+Date:   Wed Aug 3 16:34:12 2022 +0300
+
+    Create HM
+
+commit c238c3fa369eb09dbd786397a3af5dddfc3907a4
+Author: Ruslan Prokhorov <info@sabaka.net>
+Date:   Wed Jul 13 21:09:40 2022 +0300
+
+    Initial commit
