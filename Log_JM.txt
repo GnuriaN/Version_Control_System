@@ -1,0 +1,140 @@
+commit d80a6f0ee0881de7e16ab68110eeac6fce3c3b81
+Merge: 684f124 8487835
+Author: Matyushchenko <julia.matyushchenko@office.auriga.msk>
+Date:   Thu Aug 11 12:36:40 2022 +0300
+
+    Merge branch 'new' of https://github.com/GnuriaN/Version_Control_System into new
+
+commit 684f124791df5c8ccda4e66df16438a85f6ba2e2
+Author: Matyushchenko <julia.matyushchenko@office.auriga.msk>
+Date:   Thu Aug 11 12:33:41 2022 +0300
+
+    add log file
+
+commit 84878351ff50ba45ac0cffbfe564e6628d7b29ed
+Merge: 168043c 3b39c96
+Author: JuliaMt-13 <110616394+JuliaMt-13@users.noreply.github.com>
+Date:   Thu Aug 11 12:27:38 2022 +0300
+
+    Merge pull request #4 from GnuriaN/main
+    
+    Merge pull request #3 from GnuriaN/new
+
+commit 3b39c964ddeddfe20b417cdb444abf2f7eefd952
+Merge: 8d5acb0 168043c
+Author: JuliaMt-13 <110616394+JuliaMt-13@users.noreply.github.com>
+Date:   Thu Aug 11 12:21:26 2022 +0300
+
+    Merge pull request #3 from GnuriaN/new
+    
+    New
+
+commit 168043cf9039572868ad96fc33b0eb1a204e7a98
+Merge: 3e38844 8d5acb0
+Author: JuliaMt-13 <110616394+JuliaMt-13@users.noreply.github.com>
+Date:   Thu Aug 11 12:21:09 2022 +0300
+
+    Merge branch 'main' into new
+
+commit 3e38844a555fe2643f13aef2f5e350e519c1e633
+Author: Matyushchenko <julia.matyushchenko@office.auriga.msk>
+Date:   Thu Aug 11 10:10:10 2022 +0300
+
+    add file Auriga_share.txt
+
+commit 606797e375c93c9f26d31c62c08c728344de8b50
+Author: Matyushchenko <julia.matyushchenko@office.auriga.msk>
+Date:   Wed Aug 10 18:59:10 2022 +0300
+
+    add new test file Test_Aurigfile
+
+commit 8d5acb0345ddcae303e82149fd2e56e08e10da33
+Merge: 0bcc6c9 7f3be0a
+Author: kseniyabobina <110546936+kseniyabobina@users.noreply.github.com>
+Date:   Wed Aug 10 18:19:46 2022 +0300
+
+    Merge pull request #2 from GnuriaN/Kseniya_Bobina
+    
+    Kseniya bobina
+
+commit 7f3be0ae53e904906e839ca1b6ee49b2d506f9a4
+Merge: c628413 0bcc6c9
+Author: kseniyabobina <110546936+kseniyabobina@users.noreply.github.com>
+Date:   Wed Aug 10 18:19:24 2022 +0300
+
+    Merge branch 'main' into Kseniya_Bobina
+
+commit 0bcc6c9bda3fbf0c148dafeeba3bc0012fc9b80a
+Author: Ruslan Prokhorov <info@sabaka.net>
+Date:   Thu Aug 4 22:08:53 2022 +0300
+
+    Update
+
+commit 2d89b4a5491f412474cb74ad3d8e0b55b22d0114
+Merge: fa9e272 2fc6c3f
+Author: Ruslan Prokhorov <info@sabaka.net>
+Date:   Thu Aug 4 22:02:54 2022 +0300
+
+    Merge pull request #1 from GnuriaN/annazharova
+    
+    Annazharova
+
+commit c62841371af9bfe6de56f57561d0fff378efc357
+Author: kseniyabobina <ks.bobina@gmail.com>
+Date:   Thu Aug 4 17:18:14 2022 +0300
+
+    Added log file
+
+commit 2fc6c3f47867aaa927916ff2f01a378f54381ced
+Author: azharova <anna.zharova@auriga.com>
+Date:   Thu Aug 4 17:07:38 2022 +0300
+
+    Add file
+
+commit fa9e27245afa27a1f7350843672f25b47d5084b6
+Author: Ruslan Prokhorov <info@sabaka.net>
+Date:   Thu Aug 4 16:53:13 2022 +0300
+
+    add set git config
+
+commit 8bfc72e2ab6444456c921f4598a57bb28f76744c
+Author: Ruslan Prokhorov <info@sabaka.net>
+Date:   Thu Aug 4 12:52:49 2022 +0300
+
+    add how to exit vi/vim
+
+commit 62c327bc5c9e63fb3350c42e30caf2d5fbee05d0
+Author: unknown <ks.bobina@gmail.com>
+Date:   Thu Aug 4 12:24:40 2022 +0300
+
+    Add file
+
+commit 7bec2385812838be1e2d0ab2308ff12cd1a3ba22
+Author: unknown <ks.bobina@gmail.com>
+Date:   Thu Aug 4 12:16:59 2022 +0300
+
+    Add file
+
+commit a8c1715e76af7b04880a317f74ba8300a67bc18a
+Author: azharova <abc@example.comgit config --global user.email abc@example.com>
+Date:   Thu Aug 4 11:53:22 2022 +0300
+
+    Add file
+
+commit ef2eb236dc9156cf6fbd594a1a9c7fdbbf2822a7
+Author: Ruslan Prokhorov <info@sabaka.net>
+Date:   Wed Aug 3 16:36:11 2022 +0300
+
+    add additional materials
+
+commit 58ab6ec9b575b61e14aea5c2075c37bc173698e7
+Author: Ruslan Prokhorov <info@sabaka.net>
+Date:   Wed Aug 3 16:34:12 2022 +0300
+
+    Create HM
+
+commit c238c3fa369eb09dbd786397a3af5dddfc3907a4
+Author: Ruslan Prokhorov <info@sabaka.net>
+Date:   Wed Jul 13 21:09:40 2022 +0300
+
+    Initial commit
